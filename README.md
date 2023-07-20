@@ -1,7 +1,5 @@
-# projeto-ecommerce
-Projeto de e-commerce para o bootcamp Potência Tech powered by iFood | Ciências de Dados com Python
 
-# Banco de Dados de E-commerce (Português - Brasil)
+# Projeto de e-commerce para o bootcamp Potência Tech powered by iFood | Ciências de Dados com Python
 
 Este é um resumo do script SQL para criação de um banco de dados de e-commerce. O banco de dados contém tabelas para armazenar informações sobre clientes, fornecedores, vendedores, produtos, pagamentos, pedidos e estoque.
 
